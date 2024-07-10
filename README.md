@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wycliff Nyabuti</h1>
-<h3 align="center">A passionate developer passionate about front-end and geospatial development.</h3>
+<h3 align="center">I am passionate about front-end, geospatial technologoes and computers.</h3>
 
 - 🌱 I’m currently learning **React, tailwind, and Node.**
 
